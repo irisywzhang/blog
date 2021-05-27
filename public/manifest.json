@@ -1,0 +1,13 @@
+{
+  "name": "irisywzhang 的博客",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/png",
+      "sizes": "128 * 128"
+    }
+  ],
+  "theme_color": "#F898B9",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
